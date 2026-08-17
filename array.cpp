@@ -9,4 +9,4 @@ int main(){
     cout<<marks[0];
     cout<<marks[2];
     return 0;
-}
+};
